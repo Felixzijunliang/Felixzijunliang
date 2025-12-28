@@ -20,7 +20,7 @@
 - 🔭 **Focus**: Currently working on **RAG**, **KnowledgeBase**, and reducing the **Hallucination** of LLMs.
 - 🌱 **Education**: Student of **Aberdeen Institute of Data Science and Artificial Intelligence** at **SCNU**.
 - 💼 **Experience**: Former member of **AutoBits @SCNUAutoPtr**.
-- 👯 **Collaboration**: Looking to collaborate on `grkr-rag` to build a better RAG system.
+- 👯 **Collaboration**: Looking to collaborate on `gkgr-rag` to build a better RAG system.
 - 🤔 **Interests**: 
   <img src="https://img.shields.io/badge/F1%20Racing-FF1801?style=flat-square&logo=formula1&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Photography-333333?style=flat-square&logo=unsplash&logoColor=white" />
