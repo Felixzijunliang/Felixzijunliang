@@ -8,12 +8,13 @@
 - 📫 How to reach me: feliangliang0114@gmail.com
 
 
-![](https://github-readme-stats.vercel.app/api?username=Felixzijunliange&show_icons=true&theme=transparent)
-![Visitor Count](https://profile-counter.glitch.me/Felixzijunliang/count.svg)
+
+[Visitor Count](https://profile-counter.glitch.me/Felixzijunliang/count.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felixzijunliang&layout=compact&theme=tokyonight)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Felixzijunliang&theme=dracula)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felixzijunliang)
+[Felixzijunliang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felixzijunliang)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felixzijunliang)
 
 
 
