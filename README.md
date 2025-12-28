@@ -13,5 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felixzijunliang&layout=compact&theme=tokyonight)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Felixzijunliang&theme=dracula)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felixzijunliang)
+
 
 
