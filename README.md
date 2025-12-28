@@ -41,7 +41,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Felixzijunliang&style=flat-square&color=blueviolet" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Felixzijunliang&style=flat-square&color=2ea44f&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 
