@@ -44,18 +44,12 @@
   <img src="https://komarev.com/ghpvc/?username=Felixzijunliang&style=flat-square&color=blueviolet" alt="Visitor Count" />
 </div>
 
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Felixzijunliang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felixzijunliang&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=6" />
-      </td>
-    </tr>
-  </table>
-  
+  <img src="https://github.com/Felixzijunliang/Felixzijunliang/blob/main/github-metrics.svg" width="850" alt="Metrics" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Felixzijunliang&theme=tokyo-night&hide_border=true&area=true" width="850" />
 </div>
 
