@@ -40,13 +40,10 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Felixzijunliang&style=flat-square&color=2ea44f&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
 
 
 <div align="center">
-  <img src="https://github.com/Felixzijunliang/Felixzijunliang/blob/main/github-metrics.svg" width="850" alt="Metrics" />
+  <img src="https://github.com/Felixzijunliang/Felixzijunliang/blob/main/github-metrics.svg" width="800" alt="Metrics" />
 </div>
 
 <div align="center">
