@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Focus**: Currently working on **RAG**, **KnowledgeBase**, and reducing the **Hallucination** of LLMs.
-- 🌱 **Education**: Student of **Aberdeen Institute of Data Science and AI** at **SCNU**.
+- 🌱 **Education**: Student of **Aberdeen Institute of Data Science and Artificial Intelligence** at **SCNU**.
 - 💼 **Experience**: Former member of **AutoBits @SCNUAutoPtr**.
 - 👯 **Collaboration**: Looking to collaborate on `grkr-rag` to build a better RAG system.
 - 🤔 **Interests**: 
@@ -41,24 +41,22 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Felixzijunliang&style=flat-square&color=blueviolet" alt="Visitor Count" />
+</div>
+
+<div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Felixzijunliang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Felixzijunliang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felixzijunliang&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=6" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felixzijunliang&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=6" />
       </td>
     </tr>
   </table>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Felixzijunliang&theme=tokyo-night&hide_border=true&area=true" width="850" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Felixzijunliang/count.svg" alt="Visitor Count" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Felixzijunliang&theme=tokyo-night&hide_border=true&area=true" width="850" />
 </div>
 
 
