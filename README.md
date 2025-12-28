@@ -43,7 +43,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/Felixzijunliang/Felixzijunliang/blob/main/github-metrics.svg" width="800" alt="Metrics" />
+  <img src="https://github.com/Felixzijunliang/Felixzijunliang/blob/main/github-metrics.svg" width="600" alt="Metrics" />
 </div>
 
 <div align="center">
