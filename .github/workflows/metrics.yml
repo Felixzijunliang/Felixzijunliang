@@ -15,14 +15,19 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # 你的用户名
           user: Felixzijunliang
           template: classic
-          base: header, activity, community, repositories, metadata
+          # 核心修改1：只保留 header(头部信息) 和 repositories(仓库数据)
+          # 去掉了 activity(活动记录), community(社区), metadata(那个丑的小计数器)
+          base: header, repositories
+          
           config_timezone: Asia/Shanghai
-          # 插件配置
+          
+          # 核心修改2：优化语言显示
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css
           plugin_languages_limit: 8
+          
+          # 核心修改3：保留底部的折线图（看起来很专业）
           plugin_lines: yes
