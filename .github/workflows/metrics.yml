@@ -17,17 +17,20 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Felixzijunliang
           template: classic
-          # 核心修改1：只保留 header(头部信息) 和 repositories(仓库数据)
-          # 去掉了 activity(活动记录), community(社区), metadata(那个丑的小计数器)
-          base: header, repositories
           
+          # 【核心修改 1】基础设置：只保留头部和仓库
+          base: header, repositories
           config_timezone: Asia/Shanghai
           
-          # 核心修改2：优化语言显示
+          # 【核心修改 2】语言显示：过滤掉 HTML/CSS 等非代码语言
           plugin_languages: yes
           plugin_languages_ignored: >-
-            html, css
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
           plugin_languages_limit: 8
           
-          # 核心修改3：保留底部的折线图（看起来很专业）
+          # 【核心修改 3】折线图：保留 Contribution 趋势
           plugin_lines: yes
+          
+          # 【👉 新增功能】流量统计 (Traffic)
+          # 这会显示你所有仓库在过去 14 天内的总浏览量和克隆量
+          plugin_traffic: yes
