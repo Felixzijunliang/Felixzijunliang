@@ -18,19 +18,21 @@ jobs:
           user: Felixzijunliang
           template: classic
           
-          # 【核心修改 1】基础设置：只保留头部和仓库
+          # 基础设置
           base: header, repositories
           config_timezone: Asia/Shanghai
           
-          # 【核心修改 2】语言显示：过滤掉 HTML/CSS 等非代码语言
+          # 语言设置
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
           plugin_languages_limit: 8
           
-          # 【核心修改 3】折线图：保留 Contribution 趋势
+          # 贡献趋势图
           plugin_lines: yes
           
-          # 【👉 新增功能】流量统计 (Traffic)
-          # 这会显示你所有仓库在过去 14 天内的总浏览量和克隆量
+          # 【👇 重点修改这里】流量统计设置
           plugin_traffic: yes
+          plugin_traffic_clones: yes      # 强制显示克隆数
+          plugin_traffic_clones_days: 14  # 统计过去14天
+          plugin_traffic_views: yes       # 强制显示浏览数
+          plugin_traffic_views_days: 14   # 统计过去14天
